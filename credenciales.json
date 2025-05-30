@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "assistant-292002",
+  "private_key_id": "495ca26157f13d263b9c9b90345465154baf2b82",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCOLKss3s/AtQ5j\niJesiHsxO4ZQaoALHmJsE2fq9WhTq0p80Q/RSUcF0VrBVumsHdb+whT+R4+iDhG6\nk2fMjnAz6Zos5Y1cPiH8BQKezASpJIEm+JBKToBRxc9AQyqJL16aDaofrRO5t+MV\nK6fqwwDeQ19E9LsuLlgNkgJUgD1aOnl3qkLCwlBA2zit9WeJpu6Ihbc9pkrQBPzu\n9sZ1pNNQFl0RMDdAQ5fv3NMrzkuhs5fEmKPA60RwXO3mD+6cRhrEBEZJLL9aOu0O\nDdJImgjAEAkXu8vt6Hxv7kgfcvNij2Ui7gHOrrXAi68rCcTHhTrM/vQt3aLBtxR5\nL34VJI8bAgMBAAECggEANNOWGssDSKg9m3AiY0Im/AkRBAo+X2M/0MZ5I01iIUyR\nFcWcafgfQqMiZJpFouVHgEte/4hZby5pGfkxZUk7mZ5f4fS9TJvthrXZ3mUSCkL9\nFhzfiCyY80lbk5YhVO3b6cPQBYsKvEP+RVx+PPWN+gfwey+v6R3hK9GnufwYT9DC\nesDw1itHpKOoTqjrBe7fIrqxybqOwxTTRWIJo9epww1h10W5QPPrZhrjkhw7g1rM\ncJSP0T/qXMhhB6W0LDEf+O5a41INsIDvd/7ALK9/85aJ8xuVglvY09DuPANogQ5z\nqRTZJbE6Tb9VOxR0iUs+QMlnt3vy9meTD7h41wIJUQKBgQDFmHZmY7gIKFfjk+Qv\njCmPnBsuzzBU+cTe/q95AmemzrZlGRfKU8p5QtnGWSPncMmqK6kDEN01gSN4exHU\n+jV4csyZD4IYDp82sLpvq+DcDdVZjhiMEmGwTIqmQ/Mz+gIXIAdSMAboy18p0I2L\nIxLY86Utrw6JrUsePwJTxkd0mQKBgQC4MqOgwFizDhS/ZQLvW6evPxIKUGlGzPjN\n3Am1Bk+7uc6DV6xDWTo3pMxdhSKJdAOyitlF5nDno+8EyEQWJNT+GCvEdlOmBHX1\n9Tl6xtzOgpRdn+4S6liUp5TE4xUkK3jvBYNzw5gKs0hkELLKjhaRMunvBhe6HOZm\nniNcgI890wKBgCNCvMYyv1F9WYm8B3lQqs38zoEA6iAP3kjo7AlNG5ARzUynOK6b\nW0NeYZxapeSUJPigB+4LIV596AWE+L6n08jlu4sI0G9YlKLe0LZC1sKOGWd8yvac\nBSC/1/IpqAm7cIoN5iCNf34lZJsCo2+T17YtbGmFlrOM4B3KorCubmvpAoGADW3T\ntCKR1OwP4yxQHHdIMGSewhW+tyS2dvu10XbWVU9kmPrJWlelAO2I4MCWFgNZSakJ\n0ijMznaLNIQNQrgIt0W32yjtTEtC9l2chTD+ZCfs/S5twv9G2f+lvvz3S53HwVVb\nkhMOgKk1e+YjwtS9HHTjzUNac30r5wtcdKAC0XUCgYBMUJmWnYUgV3JpQFC1kIlF\nCqNT3frwXNmsW+yjqZtPOIqWge18NGVWYzGgXoSzmSTsyLbqnNVEFuTv94YW3MYh\nk+sljaP+tdwbdNCu4qCVRGXTPsPXgr6CcznPCP188emGvKQ2Q/fmbuqjjPn5G8CE\nkQNLLpANUvRd+d265Gp+Nw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ninasamparo@assistant-292002.iam.gserviceaccount.com",
+  "client_id": "106282337199849483204",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ninasamparo%40assistant-292002.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
